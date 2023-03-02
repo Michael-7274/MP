@@ -26,7 +26,7 @@ function App() {
   const connect=async()=>
   {
 
-    console.log('hi')
+    console.log('hiiii')
     const settings = {
       
       shouldSelectOneAccount: false,
